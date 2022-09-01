@@ -5,7 +5,7 @@
 
 
 
-#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
+#EXTINF:-1,tvg-id=" " tvg-name="the last kingdom " tvg-logo=" " group-title="temporada 1 " audio-track="spa,rus,eng",telefuturo 
 
 
 
@@ -14,7 +14,7 @@ https://fvs.io/redirector?token=MU5HSEZYRk5meTdNSFBmR3lOMW9MZTFHVFZINStNYUN5UTRB
 
 
 
-#EXTINF:0 tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
+#EXTINF:0 tvg-id=" " tvg-name="telefuturo" tvg-logo=" " group-title="tv" audio-track="spa,rus,eng",telefuturo 
 
 
 
