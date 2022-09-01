@@ -5,20 +5,28 @@
 
 
 
-#EXTINF:-1,tvg-id=" " tvg-name="the last kingdom " tvg-logo=" " group-title="temporada 1 " audio-track="spa,rus,eng",the last kingdom 
+#EXTINF:-1,tvg-id=" " tvg-name="episodio 1" tvg-logo=" " group-title="the last kingdom 4" audio-track="spa,rus,eng",episodio 1
+
+https://fvs.io/redirector?token=SENZQTErTE9hcmp2dWU4b1BvZnJnREVKREdpbEJzcTZydU9EbmF2UEdWa2hSOTEzUUVqb3B4UlJTMER2ejBtSHMxU3NiYmEzSGZiTjB0cFlvaHRaMmg2eFZZMkROTUZVUEhROTgrUnBnWExzM2RuR3hhY25KYVhpMis1VUlPUlJvaEFnZzYrZXowRXltVi9rc20zWi9XeG5DK0lpRFhLNjJpT29wQT09Om13Z3djOGRkOWpuS05jWE51UmhIMXc9PQLmnx
+
+
+#EXTINF:-1,tvg-id=" " tvg-name="episodio 2" tvg-logo=" " group-title="the last kingdom 4" audio-track="spa,rus,eng",episodio 2
 
 
 
+https://fvs.io/redirector?token=OHlpVmVXZ0dWb3BYSzE0dGZPVUZoTFdhSXBoMnZXSFpDeFhJM1BHc2VnZ0FkS3B6TFhEQlc0czcxK3VURFZVdWlrRDJGRlpQL09kbTJ0NFZoT1JRZm5IUjJ3dXBMZVhPWWwxM1F3OUJhd3k3b1ZGbzlBK2R4b0I5NmhOallhbmJEclRuai92WDB3OFo4SW5jb1VjTXhFMDkyL0xxZjl6QTAwa0VVdz09OnVxMTdTdFVIYWRuRlkvZTZ1VkNLbGc9PQ7LT3
 
-https://fvs.io/redirector?token=MU5HSEZYRk5meTdNSFBmR3lOMW9MZTFHVFZINStNYUN5UTRBZWFBZjIycWFOUVNQakdiaWhIcldWRTh6STZDSTdvVGtXM
+RuR3hhY25KYVhpMis1VUlPUlJvaEFnZzYrZXowRXltVi9rc20zWi9XeG5DK0lpRFhLNjJpT29wQT09Om13Z3djOGRkOWpuS05jWE51UmhIMXc9PQLmnx
 
+
+#EXTINF:-1,tvg-id=" " tvg-name="episodio 2" tvg-logo=" 
 
 
 #EXTINF:0 tvg-id=" " tvg-name="telefuturo" tvg-logo=" " group-title="tv" audio-track="spa,rus,eng",telefuturo 
 
 
 
-https://tigocloudtf.desdeparaguay.net:443/telefuturo/telefuturo_py_alta/chunklist_w609704539.m3u8?k=1c3aafacf8718236655400004cca2b113b79f20416f540868ee5842d4c44598a&exp=1662067403
+cca2b113b79f20416f540868ee5842d4c44598a&exp=1662067403
 
 
 
@@ -38,3 +46,4 @@ https://tigocloudtf.desdeparaguay.net:443/telefuturo/telefuturo_py_alta/chunklis
 #EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng", 
 
 
+? 
