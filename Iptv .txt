@@ -8,7 +8,7 @@ EXTM3U  tvg-shift=+2
 
 https://tigocloudtf.desdeparaguay.net:443/telefuturo/telefuturo_py_med/chunklist_w1581081876.m3u8?k=a5a96124cecfa77a3bbf809ef05ac89d862e3d427bb7ffb7669be37c764c472e&exp=1662062584
 
-EXTINF:-1,tvg-id=" " tvg-name="the last kingdom" tvg-logo=" " group-title=" temporada 1" audio-track="spa,rus,eng",
+#EXTINF:-1,tvg-id=" " tvg-name="the last kingdom" tvg-logo=" " group-title=" temporada 1" audio-track="spa,rus,eng",
 
 https://fvs.io/redirector?token=MU5HSEZYRk5meTdNSFBmR3lOMW9MZTFHVFZINStNYUN5UTRBZWFBZjIycWFOUVNQakdiaWhIcldWRTh6STZDSTdvVGtXMmtsUFlyd1k3dG5VamtqM050QWVyY0QrWW02OFZRdlByZEE5dXZkUWo1TWtlaXlQK1hSc0xFRUNYdTB0ajZsWmdjQXY2bEJwM2s4dTdSR0dzNEEwQ3drMFE9PTpsU2dsdUlxeVNZUzluSDlCdVFSWWZnPT0vLyH
 
