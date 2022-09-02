@@ -5,9 +5,9 @@
 
 
 
-#EXTINF:0, tvg-id=" " tvg-name=" HBO " tvg-logo=" " group-title="CINE " audio-track="spa,rus,eng",HBO 
+#EXTINF:0, tvg-id=" " tvg-name=" HBO " tvg-logo=" " group-title="CINE " audio-track="spa,rus,eng",
 
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc/HBOHD-DVBSUB_TTML_spa_6514162=30001-scale=1000-2420109
+https://vanfem.com/v/jyjkzfd55m6y51l
 
 
 
