@@ -1,0 +1,40 @@
+#EXTM3U  tvg-shift=+2
+
+
+
+
+
+
+#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
+
+
+
+
+#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
+
+
+
+
+#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng", 
+
+
