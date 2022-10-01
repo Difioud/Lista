@@ -1,39 +1,14 @@
 #EXTM3U  tvg-shift=+2
 
-
-
-
-
-
 #EXTINF:-1, tvg-id=" " tvg-name=" hd " tvg-logo=" " group-title="CINE " audio-track="spa,rus,eng",v 
 
 https://vanfem.com/v/jyjkzfd55m6y51l.mp4
 
-
-
-
-
+#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
 
 #EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
-
-
-
-
-#EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng",
-
-
-
 
 #EXTINF:-1,tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" " audio-track="spa,rus,eng", 
 
