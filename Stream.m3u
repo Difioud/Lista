@@ -1,6 +1,6 @@
 #EXTM3U  tvg-shift=+2
 
 
-#EXTINF:-1,tvg-id=" " tvg-name="nausicaa " tvg-logo=" " group-title="películas" audio-track=" "spa,rus,eng""
+#EXTINF:-1,tvg-id=" " tvg-name="nausicaa " tvg-logo=" " group-title="películas" audio-track=" " spa,rus,eng "
 
 https://server38.pelispluscdn.info:443/newhls/1977f006749ebf7592f53efef540ac81/EP.0.1.v0.1677620439.720.m3u8
