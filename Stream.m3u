@@ -1,16 +1,6 @@
 #EXTM3U  tvg-shift=+2
 
-#EXTINF:-1,tvg-id=" " tvg-name="Scouts Guide to the Zombie Apocalypse (2015)" tvg-logo="https://images.app.goo.gl/UZoJpdiGs8ByGoWk9" group-title="CINE" audio-track="spa,rus,eng",Scouts Guide to the Zombie Apocalypse (2015)
-https://fvs.io/redirector?token=OFUzYlFwd04vcVB0R3ZwT3NLbnovQ2RQQ0xEK2FjUnZrQ1krRHAreVBiTXh5UWk2S0ZQQWRVZ3B4Yi9ka0JEL1I0b1ZpMXIyMGxZUitNbXBZN1JKeDhBTXZqS1U3ZVhzL1k0Y2pzNEJjQWh6YmpQTmI4RlB3c1JyUWN4OW51emRMa1cyakZ1cnRuS3p5RzAwTXlUUDZXaFp0M2JDQkkwTENWd2Q4dz09Olhoa2FnYmkvek5jVUZuaWx3aVBFMHc9PQ2uRw
 
-
-#EXTINF:-1,tvg-id=" " tvg-name="the innocents " tvg-logo=" " group-title="películas" audio-track="spa,rus,eng",algo azul 
-https://sv08.pelisfile.net:443/videos/hls/xeofwrwUCgde6JUZh-pAjA/1666113861/132747/cf367b22a397f9d5832099d9fe65d567/EP.0.2.v0.1665965045.720.m3u8
-
-
-
-
-
-#EXTINF:-1,tvg-id=" " tvg-name="nausicaa " tvg-logo=" " group-title="películas" audio-track="spa,rus,eng",the last kingdom " group-title="CINE " audio-track="spa,rus,eng",the last kingdom 5x1
+#EXTINF:-1,tvg-id=" " tvg-name="nausicaa " tvg-logo=" " group-title="películas" audio-track=" "spa,rus,eng""
 
 https://server38.pelispluscdn.info:443/newhls/1977f006749ebf7592f53efef540ac81/EP.0.1.v0.1677620439.720.m3u8
